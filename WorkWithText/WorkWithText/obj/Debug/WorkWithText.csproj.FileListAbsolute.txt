@@ -1,0 +1,6 @@
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\bin\Debug\WorkWithText.exe.config
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\bin\Debug\WorkWithText.exe
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\bin\Debug\WorkWithText.pdb
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\obj\Debug\WorkWithText.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\obj\Debug\WorkWithText.exe
+C:\Users\PC\Desktop\WorkWithText\WorkWithText\obj\Debug\WorkWithText.pdb
